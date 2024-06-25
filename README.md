@@ -2,7 +2,7 @@
 Simple Pygame Board Game
 Welcome to the Simple Pygame Board Game! This project is a fun and straightforward board game implemented using Python and Pygame. The game features two players, each taking turns to roll dice and move across a checkerboard-style game board. The first player to reach the last square wins!
 
-**Features***
+**Features**
 Checkerboard Game Board: The game board consists of a 7x6 grid with alternating black and white squares.
 Two-Player Gameplay: Two players take turns to roll two 2-sided dice and move their pieces accordingly.
 Animated Movement: Player pieces (represented as circles) move across the board with a delay to simulate turns.
