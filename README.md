@@ -33,3 +33,6 @@ After setting up your environment, clone this repository and run the game:
     ```sh
     python game.py
     ```
+
+    <img width="262" alt="snakes and ladder" src="https://github.com/bereketAlemu-git/Snakes-and-ladder/assets/172515241/d642e56b-45c4-4b4b-baef-6bc497146b73">
+
